@@ -1,4 +1,4 @@
-<h1># calculator</h1>
+<h1># Calculator</h1>
 <h3> A calculator made with HTML5, CSS3 and JavaScript. It also has a light/dark mode.</h3>
 
 <h5> Light mode : </h5>
