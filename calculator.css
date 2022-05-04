@@ -160,8 +160,6 @@ button#equal {
   }
 
   .calculator.dark button.btn-operator{
-    /* background-color: #2e1f39;
-    color: #f700ef; */
     background-color: #f378ef;
     color: #4f20ea;
   }
